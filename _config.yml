@@ -83,11 +83,11 @@ author:
   name             : "Jaewon Hur"
   avatar           : "profile.png"
   bio              : "Ph.D student in the Department of Computer Science and Engineering, Seoul National University."
-  location         : ""
+  location         :
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=8mqzrSsAAAAJ&hl=ko&oi=ao"
+  email            : "jwhur19@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/JaewonHur"
+  github           : "JaewonHur"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :

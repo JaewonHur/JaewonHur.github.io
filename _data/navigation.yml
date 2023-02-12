@@ -4,7 +4,7 @@ main:
     url: /home/
 
   - title: "About Me"
-    url: /about/    
+    url: /cv/    
 
   - title: "Publications"
     url: /publications/

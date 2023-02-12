@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Conference
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **[IEEE S&P 2021]** DifuzzRTL: Differential Fuzz Testing to Find CPU Bugs [[pdf](https://jaewonhur.github.io/files/difuzzrtl.pdf)]\
+    **Jaewon Hur**, Suhwan Song, Dongup Kwon, Eunjin Baek, Jangwoo Kim, and Byoungyoung Lee\

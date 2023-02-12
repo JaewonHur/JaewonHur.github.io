@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Research Interest
+## Research Interests
 
 * Confidential Computing (e.g., Intel SGX, and AMD SEV)
 * Privacy Preserving Machine Learning

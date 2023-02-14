@@ -23,10 +23,13 @@ redirect_from:
 
 ## Projects
 
-* **[2022.11 - ]** Automated stock trading application for the people who always lose their money
+* **[2022.05 - ]** Automated stock trading application for the people who always lose their money
   * Published an Android App, [MumeParrot](https://play.google.com/store/apps/details?id=com.mumemume.mumeparrot).
 
-* **[2022.11 - 2023.12]** Redesigning machine-learning platform to protect privacy sensitive data
+* **[2022.03 - ]** Designing an efficient, and scalable confidential serverless computing framework
+  * Implemented the framework using [Intel SGX](https://github.com/intel/linux-sgx), [Gramine](https://github.com/gramineproject/gramine), and [Openwhisk](https://github.com/apache/openwhisk).
+
+* **[2021.11 - ]** Redesigning machine-learning platform to protect privacy sensitive data
   * Implemented the framework using [AMD SEV](https://github.com/AMDESE/AMDSEV), [Pytorch](https://github.com/pytorch/pytorch), and [grpc](https://github.com/grpc).
 
 * **[2021.05 - 2022.10]** Hardware fuzzing to find transient execution vulnerabilities in RISC-V CPUs

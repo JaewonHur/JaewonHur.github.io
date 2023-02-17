@@ -23,7 +23,7 @@ redirect_from:
 
 ## Projects
 
-* **[2023.02 - ]** Fuzzing gramine libos for hardening the TCB inside SGX [[code]()]
+* **[2023.02 - ]** Fuzzing gramine libos for hardening the TCB inside SGX [[code](https://github.com/ohblee-systems/syzkaller)]
   * Implemented the fuzzer using [syzkaller](https://github.com/google/syzkaller).
 
 * **[2022.05 - ]** Automated stock trading application for the people who always lose their money
@@ -43,7 +43,7 @@ redirect_from:
 * **[2021.03 - 2022.02]** Firmware fuzzing to find bugs in Samsung secure elements
   * Implement the SoC emulator using [QEMU](https://github.com/qemu/qemu).
   
-* **[2019.09 - 2021.05]** Hardware fuzzing to find functional bugs in RISC-V CPUs [code](https://github.com/compsec-snu/difuzz-rtl)]
+* **[2019.09 - 2021.05]** Hardware fuzzing to find functional bugs in RISC-V CPUs [[code](https://github.com/compsec-snu/difuzz-rtl)]
   * Implemented the fuzzer using [Verilator](https://github.com/verilator/verilator), [Spike](https://github.com/riscv-software-src/riscv-isa-sim), [Firrtl](https://github.com/chipsalliance/firrtl), and [Cocotb](https://github.com/cocotb/cocotb).
   * Found 16 new bugs, including 6 CVEs in RISC-V CPUs.
   * Published a paper to IEEE S&P 2021 [[paper](https://jaeownhur.github.io/files/jwhur-difuzzrtl.pdf)][[slide](https://jaeownhur.github.io/files/jwhur-difuzzrtl-slides.pdf)].

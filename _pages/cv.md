@@ -33,7 +33,7 @@ redirect_from:
   * Implemented the framework using [Intel SGX](https://github.com/intel/linux-sgx), [Gramine](https://github.com/gramineproject/gramine), and [Openwhisk](https://github.com/apache/openwhisk).
 
 * **[2021.11 - ]** Redesigning machine-learning platform to protect privacy sensitive data
-  * Implemented the framework using [AMD SEV](https://github.com/AMDESE/AMDSEV), [Pytorch](https://github.com/pytorch/pytorch), and [grpc](https://github.com/grpc).
+  * Implemented the framework using [AMD SEV](https://github.com/AMDESE/AMDSEV), [PyTorch](https://github.com/pytorch/pytorch), and [grpc](https://github.com/grpc).
 
 * **[2021.05 - 2022.10]** Hardware fuzzing to find transient execution vulnerabilities in RISC-V CPUs [[code](https://github.com/compsec-snu/specdoctor)]
   * Implemented the fuzzer using [Verilator](https://github.com/verilator/verilator), [Chipyard](https://github.com/ucb-bar/chipyard), [Chisel](https://github.com/chipsalliance/chisel3), and [Firrtl](https://github.com/chipsalliance/firrtl).
@@ -46,5 +46,5 @@ redirect_from:
 * **[2019.09 - 2021.05]** Hardware fuzzing to find functional bugs in RISC-V CPUs [[code](https://github.com/compsec-snu/difuzz-rtl)]
   * Implemented the fuzzer using [Verilator](https://github.com/verilator/verilator), [Spike](https://github.com/riscv-software-src/riscv-isa-sim), [Firrtl](https://github.com/chipsalliance/firrtl), and [Cocotb](https://github.com/cocotb/cocotb).
   * Found 16 new bugs, including 6 CVEs in RISC-V CPUs.
-  * Published a paper to IEEE S&P 2021 [[paper](https://jaeownhur.github.io/files/jwhur-difuzzrtl.pdf)][[slide](https://jaeownhur.github.io/files/jwhur-difuzzrtl-slides.pdf)].
+  * Published a paper to IEEE S&P 2021 [[paper](https://jaeownhur.github.io/files/jwhur-difuzzrtl.pdf)][[slide](https://jaewonhur.github.io/files/jwhur-difuzzrtl-slides.pdf)].
 

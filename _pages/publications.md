@@ -7,6 +7,9 @@ author_profile: true
 
 ## Conference
 
+* **[SysTEX 2023]** Graminer: Fuzz Testing Gramine LibOS to Harden the Trusted Computing Base
+    **Jaewon Hur**, and Boungyoung Lee
+
 * **[ACM CCS 2022]** SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities [[pdf](https://jaewonhur.github.io/files/jwhur-specdoctor.pdf)]\
     **Jaewon Hur**, Suhwan Song, Sunwoo Kim, and Byoungyoung Lee
     

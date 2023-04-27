@@ -23,8 +23,9 @@ redirect_from:
 
 ## Projects
 
-* **[2023.02 - ]** Fuzzing gramine libos for hardening the TCB inside SGX [[code](https://github.com/ohblee-systems/syzkaller)]
+* **[2023.02 - 2023.05]** Fuzzing gramine libos for hardening the TCB inside SGX [[code](https://github.com/ohblee-systems/syzkaller)]
   * Implemented the fuzzer using [syzkaller](https://github.com/google/syzkaller).
+    * Published a paper to SysTEX 2023.
 
 * **[2022.05 - ]** Automated stock trading application for the people who always lose their money
   * Published an Android App, [MumeParrot](https://play.google.com/store/apps/details?id=com.mumemume.mumeparrot).

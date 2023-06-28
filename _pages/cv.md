@@ -17,7 +17,7 @@ redirect_from:
 
 * Ph.D., Electrical and Computer Engineering, Seoul National University, Mar. 2017 ~
   * Advisor: [Byoungyoung Lee](https://lifeasageek.github.io/)
-  * Advisor before moving in to Compsec lab: [Sunghyun Choi](https://kr.linkedin.com/in/sunghyun-choi-b20268)
+  * Advisor before moving into Compsec lab: [Sunghyun Choi](https://kr.linkedin.com/in/sunghyun-choi-b20268)
 
 * B.S., Electrical Engineering, Pohang University of Science and Technology, Mar. 2013 ~ Feb. 2017.
 

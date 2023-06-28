@@ -10,7 +10,7 @@ redirect_from:
 ## Research Interests
 
 * Confidential Computing (e.g., Intel SGX, and AMD SEV)
-* Privacy Preserving Machine Learning
+* Secure Machine Learning, Big-data Analysis
 * Fuzz Testing
 
 ## Education
@@ -23,6 +23,9 @@ redirect_from:
 
 ## Projects
 
+* **[2023.02 - ]** Designing a secure big-data analysis platform to protect data
+  * Implemented the framework using [Intel SGX](https://github.com/intel/linux-sgx), and [Spark](https://github.com/apache/spark).
+
 * **[2023.02 - 2023.05]** Fuzzing gramine libos for hardening the TCB inside SGX [[code](https://github.com/JaewonHur/syzkaller)]
   * Implemented the fuzzer using [syzkaller](https://github.com/google/syzkaller).
     * Published a paper to SysTEX 2023 [[paper](https://jaewonhur.github.io/files/jwhur-graminer.pdf)][[slide](https://jaewonhur.github.io/files/jwhur-graminer-slides.pdf)].
@@ -33,7 +36,7 @@ redirect_from:
 * **[2022.03 - ]** Designing an efficient, and scalable confidential serverless computing framework
   * Implemented the framework using [Intel SGX](https://github.com/intel/linux-sgx), [Gramine](https://github.com/gramineproject/gramine), and [Openwhisk](https://github.com/apache/openwhisk).
 
-* **[2021.11 - ]** Redesigning machine-learning platform to protect training data
+* **[2021.11 - ]** Designing a secure machine-learning platform to protect training data
   * Implemented the framework using [AMD SEV](https://github.com/AMDESE/AMDSEV), [PyTorch](https://github.com/pytorch/pytorch), and [grpc](https://github.com/grpc).
 
 * **[2021.05 - 2022.10]** Hardware fuzzing to find transient execution vulnerabilities in RISC-V CPUs [[code](https://github.com/compsec-snu/specdoctor)]

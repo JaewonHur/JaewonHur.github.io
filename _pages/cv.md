@@ -26,7 +26,7 @@ redirect_from:
 * **[2023.02 - ]** Designing a secure big-data analysis platform to protect data
   * Implemented the framework using [Intel SGX](https://github.com/intel/linux-sgx), and [Spark](https://github.com/apache/spark).
 
-* **[2023.02 - 2023.05]** Fuzzing gramine libos for hardening the TCB inside SGX [[code](https://github.com/JaewonHur/syzkaller)]
+* **[2023.02 - 2023.05]** Fuzzing gramine libos for hardening the TCB inside SGX [[code](https://github.com/JaewonHur/graminer)]
   * Implemented the fuzzer using [syzkaller](https://github.com/google/syzkaller).
     * Published a paper to SysTEX 2023 [[paper](https://jaewonhur.github.io/files/jwhur-graminer.pdf)][[slide](https://jaewonhur.github.io/files/jwhur-graminer-slides.pdf)].
 

@@ -7,4 +7,6 @@ redirect_from:
   - /home.html
 ---
 
-I am a Ph.D student at Seoul National University (SNU), advised by [Byoungyoung Lee](https://lifeasageek.github.io/) in [Compsec lab](https://compsec.snu.ac.kr). Currently, I am working on emerging cloud technologies, especially confidential computing (e.g., Intel SGX, and AMD SEV). More specifically, my research area is on redesigning current big-data, and machine learning platform to protect data while preserving efficiency. In addition, I am interesed in various topics in system security such as fuzzing, and access control of LLMs, etc.
+I am currently working as a **post doctorial researcher** at **Computer Security Lab** of **Seoul National University**. I received **Ph.D.** at [**Computer Security Lab**](https://compsec.snu.ac.kr), advised by professor [**Byoungyoung Lee**](https://lifeasageek.github.io/). I'm interested in the issues of **system security** in general, but I focused on two topics during my Ph.D: **fuzzing**, and **confidential computing**. As the fuzzing researches, I developed RTL fuzzers, **DifuzzRTL**, and **SpecDoctor**, which were presented at **IEEE S&P** and **ACM CCS**. As the researches on confidential computing, I proposed **FairLearning**, which protects the training data in cloud based machine learning. I have studied the topics in system security across the various fields, and I am always willing to learn new security issues.
+
+My CV can be found [here](https://jaewonhur.github.io/files/cv.pdf)

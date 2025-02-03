@@ -10,7 +10,7 @@ author_profile: true
 * **[NDSS 2025]** DLBox: New Model Training Framework for Protecting Training Data [[pdf](https://jaewonhur.github.io/files/jwhur-dlbox.pdf)]\
     **Jaewon Hur**, Juheon Yi, Cheolwoo Myung, Sangyun Kim, Youngki Lee, and Byoungyoung Lee
 
-* **[NDSS 2025]** Laputa: Secure Data Analytics in Apache Spark with Fine-grained Policy Enforcement and Isolated Execution [[pdf](https://jaewonhur.github.io/files/jwhur-laputa.pdf)]\
+* **[NDSS 2025]** Secure Data Analytics in Apache Spark with Fine-grained Policy Enforcement and Isolated Execution [[pdf](https://jaewonhur.github.io/files/jwhur-laputa.pdf)]\
     Byeongwook Kim<sup>1</sup>, **Jaewon Hur**<sup>1</sup>, Adil Ahmad, and Byoungyoung Lee
 
 * **[Arxiv]** TeeMate: Fast and Efficient Confidential Container using Shared Enclave [[pdf](https://jaewonhur.github.io/files/jwhur-teemate.pdf)]\

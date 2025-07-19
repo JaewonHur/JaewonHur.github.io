@@ -13,7 +13,7 @@ author_profile: true
 * **[NDSS 2025]** Secure Data Analytics in Apache Spark with Fine-grained Policy Enforcement and Isolated Execution [[pdf](https://jaewonhur.github.io/files/jwhur-laputa.pdf)]\
     Byeongwook Kim<sup>1</sup>, **Jaewon Hur**<sup>1</sup>, Adil Ahmad, and Byoungyoung Lee
 
-* **[Arxiv]** TeeMate: Fast and Efficient Confidential Container using Shared Enclave [[pdf](https://jaewonhur.github.io/files/jwhur-teemate.pdf)]\
+* **[Arxiv]** TeeMate: Fast and Efficient Confidential Container using Shared Enclave [[pdf](https://jaewonhur.github.io/files/jwhur-teemate.pdf)][[poster](https://jaewonhur.github.io/files/jwhur-teemate-poster.pdf)]\
     Chulmin Lee<sup>1</sup>, **Jaewon Hur**<sup>1</sup>, Sangho Lee, and Byoungyoung Lee
 
 * **[SysTEX 2023]** Graminer: Fuzz Testing Gramine LibOS to Harden the Trusted Computing Base [[pdf](https://jaewonhur.github.io/files/jwhur-graminer.pdf)]\
